@@ -12,7 +12,6 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
  <img width="200" src="https://media.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif" alt="find_me_a_job"/>
 </p>
 
----
 ### 🤝 Social media:
   <div id="badges">
     <a href="https://www.linkedin.com/in/илья-фирсов-52311a29a/" target="_blank">
@@ -25,7 +24,6 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
----  
 
 ### 💻 Tools & Languages that I have used in my employment:
 <div>
@@ -34,7 +32,6 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; -->
 </div>
----
 
 ### 💻 Courses and education:
 | Name of the course                                              | Date              |
