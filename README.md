@@ -21,7 +21,6 @@ Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/me
     <a href="https://vk.com/slonetchko" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    </a> -->
   </div>
 ---
 ### 💻 Tools & Languages that I have used in my employment:
