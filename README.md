@@ -5,7 +5,7 @@
 Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30px">. My developer's career started in February 2022 in 'Altius Soft' software company, where I have worked 6 month before relocation to Georgia. Nowadays I have been studying Python on stepik.org and searching for my first distant employment.
 
 <p align="center">
- <img width="600" src="https://giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif" >
+ <img src="https://giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif"  width="600"  >
 </p>
 
 - :telescope: I have completed SQL and Python courses on stepik.org
