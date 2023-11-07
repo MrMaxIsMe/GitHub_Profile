@@ -12,7 +12,7 @@ Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/me
 - :zap: I study English and German in my free time, so you can contact me on both languages !
 - :mailbox: How you can contact me: [![Telegram Badge](https://img.shields.io/badge/-Lakeband-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lakeband) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lukafirsov13@yandex.ru)
 ---
-### 🤝 Социальные сети:
+### 🤝 Social media:
   <div id="badges">
     <a href="https://www.linkedin.com/in/илья-фирсов-52311a29a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
