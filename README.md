@@ -1,5 +1,3 @@
-@@ -5,7 +5,7 @@
-
 ### :man_technologist: Обо мне:
 
 Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30px">. My developer's career started in February 2022 in 'Altius Soft' software company, where I have worked 6 month before relocation to Georgia. Nowadays I have been studying Python on stepik.org and searching for my first distant employment.
