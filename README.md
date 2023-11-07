@@ -4,13 +4,14 @@
 
 HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30px">. My developer's career started in February 2022 in 'Altius Soft' software company, where I have worked 6 month before relocation to Georgia. Nowadays I have been studying Python on stepik.org and searching for my first distant employment.
 
+- :telescope: I have completed SQL and Python courses on stepik.org
+- :zap: I study English and German in my free time, so you can contact me on both languages !
+- :mailbox: How you can contact me: [![Telegram Badge](https://img.shields.io/badge/-Lakeband-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lakeband) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lukafirsov13@yandex.ru)
+
 <p align="center">
  <img width="100" src="https://media.giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif" alt="find_me_a_job"/>
 </p>
 
-- :telescope: I have completed SQL and Python courses on stepik.org
-- :zap: I study English and German in my free time, so you can contact me on both languages !
-- :mailbox: How you can contact me: [![Telegram Badge](https://img.shields.io/badge/-Lakeband-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lakeband) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lukafirsov13@yandex.ru)
 ---
 ### 🤝 Social media:
   <div id="badges">
