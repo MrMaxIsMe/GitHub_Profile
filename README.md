@@ -13,6 +13,7 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
 </p>
 
 ### 🤝 Social media:
+  <div id="badges">
     <a href="https://www.linkedin.com/in/илья-фирсов-52311a29a/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
@@ -22,7 +23,7 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
     <a href="https://vk.com/slonetchko" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-
+  </div>
 
 ### 💻 Tools & Languages that I have used in my employment:
 <div>
