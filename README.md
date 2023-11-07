@@ -22,7 +22,7 @@ Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/me
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-  
+---  
 
 ### 💻 Tools & Languages that I have used in my employment:
 <div>
@@ -31,11 +31,11 @@ Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; -->
 </div>
-
+---
 
 ### 💻 Пройденные курсы:
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | stepik.org/Интерактивный тренажер по SQL                        | 02/2022 - 03/2022 |
 | stepik.org/"Поколение Python": курс для начинающих              | 01/2023 - 02/2023 |
---- -->
+
