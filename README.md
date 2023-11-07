@@ -7,6 +7,7 @@ Hello! I am a junior SQL & Python developer <img src="https://media.giphy.com/me
 <p align="center">
  <img width="600" src="https://giphy.com/media/fQAkqiwIRcy12E2dZj/giphy.gif" >
 </p>
+
 - :telescope: I have completed SQL and Python courses on stepik.org
 - :zap: I study English and German in my free time, so you can contact me on both languages !
 - :mailbox: How you can contact me: [![Telegram Badge](https://img.shields.io/badge/-Lakeband-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lakeband) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lukafirsov13@yandex.ru)
