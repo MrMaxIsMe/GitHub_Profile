@@ -32,12 +32,12 @@ HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/co
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp; -->
 </div>
 ---
 
-### 💻 Пройденные курсы:
-| Курсы                                                           | Дата              |
+### 💻 Courses and education:
+| Name of the course                                              | Date              |
 | ----------------------------------------------------------------| :---------------: |
 | stepik.org/Интерактивный тренажер по SQL                        | 02/2022 - 03/2022 |
 | stepik.org/"Поколение Python": курс для начинающих              | 01/2023 - 02/2023 |
