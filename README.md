@@ -2,7 +2,7 @@
 
 ### :man_technologist: About me:
 
-HI am a junior SQL & Python developer <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40px"> <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40px">. My developer's career started in February 2022 in 'Altius Soft' software company, where I have worked 6 month before relocation to Georgia. Nowadays I have been studying Python on stepik.org and searching for my first distant employment.
+Hello, I am a junior SQL & Python developer <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="40px"> <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40px">. My developer's career started in February 2022 in 'Altius Soft' software company, where I have worked 6 month before relocation to Georgia. Nowadays I have been studying Python on stepik.org and searching for my first distant employment.
 
 - :telescope: I have completed SQL and Python courses on stepik.org
 - :zap: I study English and German in my free time, so you can contact me on both languages !
